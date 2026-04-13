@@ -1,4 +1,4 @@
-# hybrid-optical-neural-ar.md
+# hybrid-optical-neural-ar
 Initial write-up of independently developed layered artificial reality system combining optical and neural interfaces.
 ## Hybrid Optical–Neural Artificial Reality System
 
