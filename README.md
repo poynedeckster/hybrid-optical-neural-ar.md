@@ -1,3 +1,9 @@
+# Hybrid Optical–Neural Artificial Reality System
+
+A modular artificial reality architecture combining contact lens-based visual rendering with neural sensory feedback systems.
+
+Originally conceptualized: 2017–2018  
+Documented: 2026
 # hybrid-optical-neural-ar
 Initial write-up of independently developed layered artificial reality system combining optical and neural interfaces.
 ## Hybrid Optical–Neural Artificial Reality System
@@ -108,3 +114,29 @@ This approach may:
 - Accelerate artificial reality development timelines
 - Reduce dependency on high-risk neural writing technologies
 - Enable modular progression from AR → full immersion systems
+- ## System Overview
+
+[ External Compute + Power ]
+        ↓
+[ Contact Lens System ]
+  • Visual Display
+  • Eye Tracking
+  • Wireless Power Receiver
+        ↓
+[ Human Vision ]
+        ↓
+[ BCI Sensory Layer ]
+  • Touch
+  • Motion
+  • Spatial Feedback
+        ↓
+[ Artificial Reality Engine ]
+## Core Insight
+
+The most difficult problem in artificial reality is direct visual cortex stimulation.
+
+This system avoids that bottleneck by:
+- Using natural human vision pathways (contact lens display)
+- Offloading non-visual immersion to neural interfaces
+
+This separation reduces complexity while maintaining immersion potential.
