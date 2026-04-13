@@ -78,3 +78,33 @@ This system could evolve into:
 
 Originally conceptualized: ~2017–2018  
 Documented and published: 2026
+## Problem Framing
+
+Current artificial reality systems face a major bottleneck:
+
+Direct neural visual rendering is extremely complex, high-risk, and not yet viable at scale.
+
+This creates a development gap where:
+- Visual immersion is limited by external hardware (headsets)
+- Neural interfaces are not advanced enough for full simulation
+
+---
+
+## Proposed Solution
+
+This system introduces a hybrid architecture:
+
+- Optical system handles visual rendering through natural pathways
+- Neural interface handles non-visual sensory feedback
+
+This separation reduces technical difficulty while maintaining immersion potential.
+
+---
+
+## Why This Matters
+
+This approach may:
+
+- Accelerate artificial reality development timelines
+- Reduce dependency on high-risk neural writing technologies
+- Enable modular progression from AR → full immersion systems
